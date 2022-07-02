@@ -7,3 +7,5 @@ If you have any great ideas how to efficiently store and structure information h
 Useful links to other repositories stored [here](./Links.md)
 
 Links to books and any other useful literature and papers are [here](./Books.md)
+
+Best Russian-speaking Telegram channel: @main_petrophysics_hub
